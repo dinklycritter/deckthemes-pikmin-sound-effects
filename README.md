@@ -1,0 +1,1 @@
+decktheme decky plugin crazy
